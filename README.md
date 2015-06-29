@@ -4,10 +4,13 @@ small application that automates the «2048 game»
 
 1. Bot is doing the random actions to complete game
 2. After each step, print current games field like: (not implemented)
+	```
 	| 2 | 0 | 4 | 8|
 	| 2 | 0 | 4 | 8|
 	| 2 | 0 | 4 | 8|
 	| 4 | 8 | 32 | 16 |
+	
+	```
 3. After the end of the game, print the current score
 4. Currently running on Firefox (firefox-driver)
 
